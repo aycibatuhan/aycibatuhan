@@ -14,6 +14,7 @@ My research focuses on multiple sclerosis, neuroimmunology, and advanced MRI mar
 ## 🛠️ Projects
 
 - [**nervous-system-atlas**](https://github.com/aycibatuhan/nervous-system-atlas) — browser-based 3D atlas of clinical neuroanatomy in MNI152 space: 592 meshes, synchronised MRI slices, arterial territories, traced pathways, syndrome/lesion mode, glossary and quiz (EN/TR)
+- [**tusopen**](https://github.com/aycibatuhan/tusopen) — open-source TUS (Turkish medical specialty exam) study system: structured content DB → Anki deck + case simulator
 - [**LedgerBar**](https://github.com/aycibatuhan/LedgerBar) — local-first envelope budgeting for macOS (SwiftUI + SQLite, no cloud)
 - [**skincare**](https://github.com/aycibatuhan/skincare) — offline-first skincare routine tracker (PWA + single-file HTML + macOS app)
 - [**yks-takip**](https://github.com/aycibatuhan/yks-takip) — offline-first YKS prep tracker for Android tablets
